@@ -1,5 +1,3 @@
-Esha Vishwakarma (Red ID: 820860138)
-Sathyasagar Nagendra (Red ID: 820859215)
 ----
 
 Project Title: Easy Quiz Android Application
